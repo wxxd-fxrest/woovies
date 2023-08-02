@@ -33,3 +33,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# CocoaPods
+/ios/Pods/
+
+.env
